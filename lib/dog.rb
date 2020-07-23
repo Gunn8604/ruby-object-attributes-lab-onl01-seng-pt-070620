@@ -1,3 +1,2 @@
 class Dog 
-  def name 
-    
+  def 
